@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsbaguette&label=Profile%20views&color=0e75b6&style=flat" alt="jsbaguette" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsbaguette" alt="jsbaguette" /></a> </p>
-
 - 💬 Ask me about **vue, nuxt, react**
 
 - 📫 How to reach me **hello@florent.dev**
