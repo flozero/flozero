@@ -5,7 +5,8 @@
 
 ## Open source projects I am actively working on or maintain:
 
-- 🛒 Nuxt module for [Snipcart](https://github.com/nuxt-modules/snipcart) 
+- 🛒 Nuxt 2/3 module for [Snipcart](https://github.com/nuxt-modules/snipcart)
+- 🛒 Nuxt 3 module for [Stripe](https://github.com/fuentesloic/nuxt-stripe)
 - 🥶 My [own website](https://github.com/flozero/florent.dev) (not super active)
 - 🎤 A [Community website](https://github.com/vuemontreal/vuemontreal) (not active anymore) for [vue montreal meetups](https://vuemontreal.org/)
 
