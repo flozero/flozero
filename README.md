@@ -12,6 +12,11 @@
 - 🎤 A [Community website](https://github.com/vuemontreal/vuemontreal) (not active anymore) for [vue montreal meetups](https://vuemontreal.org/)
 - a small utils to [deploy ios ipa to physic device](https://github.com/flozero/deploy-ios-ipa)
 
+## Archived projects
+
+- https://github.com/flozero/react-18-chime-js-sdk
+- https://github.com/flozero/vuepress-plugin-docgen
+
 ## Contact
 
 Feel free to reach out to me via [email 📫](hello@florent.dev) or [LinkedIn 📫](https://linkedin.com/in/fgiraud42).
