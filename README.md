@@ -7,7 +7,7 @@
 
 - A faster and fully working alternative to tailwind variants and cva. [Tailwind buddy](https://github.com/busbud/tailwind-buddy)
 - 🛒 Nuxt 2/3 module for [Snipcart](https://github.com/nuxt-modules/snipcart)
-- 🛒 Nuxt 3 module for [Stripe](https://github.com/fuentesloic/nuxt-stripe)
+- 🛒 Nuxt 3 module for [Stripe](https://github.com/flozero/nuxt-stripe)
 - 🥶 My [own website](https://github.com/flozero/florent.dev) (not super active)
 - 🎤 A [Community website](https://github.com/vuemontreal/vuemontreal) (not active anymore) for [vue montreal meetups](https://vuemontreal.org/)
 - a small utils to [deploy ios ipa to physic device](https://github.com/flozero/deploy-ios-ipa)
