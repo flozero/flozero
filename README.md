@@ -19,6 +19,6 @@
 
 ## Contact
 
-Feel free to reach out to me via [email 📫](hello@florent.dev) or [LinkedIn 📫](https://linkedin.com/in/fgiraud42).
+Feel free to reach out to me via [email 📫](hello@florent.dev) or [LinkedIn 📫](https://linkedin.com/in/flozero).
 
 I'm always open to discussing new opportunities and projects!
