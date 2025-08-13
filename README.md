@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Florent Giraud, Aspiring CTO </h1>
+<h1 align="center">Hi 👋, I'm Florent Giraud </h1>
 
 
 ⚡ Fun fact **I mastered cat gifs** :cat:
